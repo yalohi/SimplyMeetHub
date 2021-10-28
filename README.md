@@ -1,6 +1,6 @@
 # SimplyMeetHub
 
-A simple static page Hub that lists available [**SimplyMeet**](https://github.com/yalohi/SimplyMeet) communities. Currently hosted on [**simplymeet.app**](simplymeet.app).
+A simple static page Hub that lists available [**SimplyMeet**](https://github.com/yalohi/SimplyMeet) communities. Currently hosted on [**simplymeet.app**](https://simplymeet.app/).
 
 ## License
 ---
