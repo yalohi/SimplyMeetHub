@@ -1,0 +1,58 @@
+html,body
+{
+	margin: 0;
+	padding: 0;
+	background-color: #202020;
+	color: white;
+	text-align: center;
+}
+
+header,footer
+{
+	padding: .5rem;
+	background-color: #303030;
+}
+
+table
+{
+	margin: 1rem auto 1rem auto;
+}
+
+th,td
+{
+	background-color: #303030;
+	text-align: left;
+	padding: 1rem;
+}
+
+a.img
+{
+	display: inline-block;
+	margin-left: .5rem;
+	margin-right: .5rem;
+}
+
+a.img:link
+{
+	text-decoration: inherit;
+	color: inherit;
+}
+
+a.img:visited
+{
+	text-decoration: inherit;
+	color: inherit;
+}
+
+img
+{
+	width: 3rem;
+	height: 3rem;
+	vertical-align: bottom;
+}
+
+img.logo
+{
+	width: 128px;
+	height: 128px;
+}

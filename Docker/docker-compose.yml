@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+    hub:
+        build: hub
+        ports:
+            - "443:443"
