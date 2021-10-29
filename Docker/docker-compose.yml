@@ -2,5 +2,6 @@ version: "3.4"
 services:
     hub:
         build: hub
+        container_name: ${COMPOSE_PROJECT_NAME}-hub
         ports:
             - "443:443"
