@@ -15,7 +15,14 @@ header,footer
 
 table
 {
-	margin: 1rem auto 1rem auto;
+	margin: 0 auto 0 auto;
+	overflow-x: scroll;
+}
+
+div.overflow
+{
+	margin: 1rem 0 1rem 0;
+	overflow-x: auto;
 }
 
 th,td
