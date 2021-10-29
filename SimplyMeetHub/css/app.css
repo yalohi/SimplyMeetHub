@@ -33,6 +33,11 @@ th,td
 	padding: 1rem;
 }
 
+a:link,a:visited,a:hover,a:active
+{
+	color: skyblue;
+}
+
 a.img
 {
 	display: inline-block;
